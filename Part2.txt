@@ -1,0 +1,16 @@
+1)
+cd
+mkdir
+git commit
+git push 
+exit 
+ls 
+ls -ltr
+
+2) Git commit is used for saving file to local repository and adding a comment to the update.Git status tells you if any files you made need to be pushed to the github repository still or not. 
+Git push pusshes the updates you made to local repository to the github repository.
+
+3) I did not collaborate with anyone while working on this assignment.
+Any online reasources are allowed no chat gpt 
+Late assignments wil be accepted however there will be a penalty of 10% per r day except for me cause my acomodations.Per excepetion clause.
+2 late arrivals are accepted to class beginning to account for emergency arrivals. Excused absences the student must present offical documentation of the excuse like a doctors note..
